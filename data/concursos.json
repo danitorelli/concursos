@@ -1,23 +1,398 @@
 {
- "atualizado": "2026-10-19T18:25:25+00:00",
+ "atualizado": "2026-10-19T18:33:58+00:00",
  "fontes": [
   {
    "fonte": "Cebraspe",
-   "atualizado": "2026-10-19T18:25:25+00:00",
-   "total": 1
+   "atualizado": "2026-10-19T18:33:58+00:00",
+   "total": 8
   }
  ],
  "concursos": [
   {
-   "id": "cebraspe",
+   "id": "cebraspe-adeal_26",
    "fonte": "Cebraspe",
-   "sigla": "",
-   "orgao": "",
-   "status": "edital",
+   "sigla": "ADEAL 26",
+   "orgao": "ADEAL 26",
+   "status": "aberto",
    "uf": "BR",
    "categorias": [],
-   "cargos": [],
+   "cargos": [
+    "CARGO 1: FISCAL ESTADUAL AGROPECUÁRIO – ESPECIALIDADE: ENGENHARIA AGRONÔMICA",
+    "CARGO 2: FISCAL ESTADUAL AGROPECUÁRIO – ESPECIALIDADE: MEDICINA VETERINÁRIA"
+   ],
+   "vagas": 20,
+   "salario_max": 7320.42,
+   "inicio": "2026-09-15",
+   "fim": "2026-10-20",
+   "periodo_texto": "De 15/09/2026 até 20/10/2026 às 18:00, horário oficial de Brasília/DF",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/ADEAL_26",
+   "editais": [
+    {
+     "descricao": "Edital nº 2 - Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida",
+     "data": "05/10/2026 15:45",
+     "arquivo": "C6B8155110788FC0EF8B160793EA26CFC342B6B5A561D4461C0A3A2C17F9C97E.pdf"
+    },
+    {
+     "descricao": "Respostas às impugnações, conforme estabelecido no subitem 1.5 do Edital nº 1 - ADEAL",
+     "data": "14/09/2026 09:10",
+     "arquivo": "3E3C4900613E9E9FC571EF17CE4B64DEFF5D67149F87419BBD978853F08F6EC2.pdf"
+    },
+    {
+     "descricao": "Edital nº 1 – Abertura",
+     "data": "24/08/2026 09:40",
+     "arquivo": "B77102106228ED45E12CC18C9A22A1E3B2230241E995BF594F69AE88A34D1AF1.pdf"
+    }
+   ]
+  },
+  {
+   "id": "cebraspe-sefaz_al_26",
+   "fonte": "Cebraspe",
+   "sigla": "SEFAZ AL 26",
+   "orgao": "Secretaria de Estado da Fazenda de Alagoas",
+   "status": "aberto",
+   "uf": "AL",
+   "categorias": [],
+   "cargos": [
+    "AUDITOR FISCAL DA ADMINISTRAÇÃO TRIBUTÁRIA ESTADUAL (AFTE)"
+   ],
+   "vagas": 40,
+   "salario_max": 25270.68,
+   "inicio": "2026-09-17",
+   "fim": "2026-10-21",
+   "periodo_texto": "De 17/09/2026 até 21/10/2026 às 18:00, horário oficial de Brasília/DF",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/SEFAZ_AL_26",
+   "editais": [
+    {
+     "descricao": "Edital nº 04 - Complementação de inscrição e retificação do cronograma",
+     "data": "15/10/2026 11:30",
+     "arquivo": "76C791030DAB00B64F644D5B2D46630FE9AEBABA62CFD2EF4C815DAB6A2471BD.pdf"
+    },
+    {
+     "descricao": "Edital nº 03 – Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida",
+     "data": "07/10/2026 10:50",
+     "arquivo": "9874B3512392172CF8ABA7A46E5359FBD8D953C81702BCF5B7E6B0DA2B8ED5DC.pdf"
+    },
+    {
+     "descricao": "Edital nº 2 – Inclusão do subitem 9.7.4.1.3 no Edital nº 1 – SEFAZ/AL, bem como a retificação de tópico de Direito Administrativo, constante dos conhecimentos básicos, divulgado por meio do subitem 14.2.3 do referido edital",
+     "data": "18/09/2026 19:00",
+     "arquivo": "A8EEB238C2CFEAB735078D8B3F23DD5CB87ED555309106DD4B59864D2B89F0F2.pdf"
+    },
+    {
+     "descricao": "Respostas às impugnações, conforme estabelecido no subitem 1.5 do edital nº 1",
+     "data": "16/09/2026 17:00",
+     "arquivo": "93A21C9FFE07B56B9DCC831C8BCBD41A1B41CA23218FFC47FF040878511CDB3E.pdf"
+    },
+    {
+     "descricao": "Edital nº 1 – Abertura – Atualizado conforme retificações",
+     "data": "25/08/2026 10:00",
+     "arquivo": "F317460224E42B1C2CF8434E69696571F3F5EDBE2EA2FFE3B2AC27139650B343.pdf"
+    },
+    {
+     "descricao": "Edital n° 1 - Abertura",
+     "data": "25/08/2026 10:00",
+     "arquivo": "BCC5FB85FDED7931F46C44BF209ABD7F3D660AB0C9ED5B06CDA483EC7A42F3E7.pdf"
+    }
+   ]
+  },
+  {
+   "id": "cebraspe-cbm_al_26",
+   "fonte": "Cebraspe",
+   "sigla": "CBM AL 26",
+   "orgao": "Corpo de Bombeiros Militar do Estado de Alagoas",
+   "status": "aberto",
+   "uf": "AL",
+   "categorias": [
+    "Bombeiro"
+   ],
+   "cargos": [
+    "CARGO 1: OFICIAL DE ESTADO-MAIOR",
+    "CARGO 2: SOLDADO – QUALIFICAÇÃO: QPBM/1",
+    "CARGO 2: SOLDADO – QUALIFICAÇÃO: QPBM/2"
+   ],
+   "vagas": 172,
+   "salario_max": 11563.77,
+   "inicio": "2026-09-18",
+   "fim": "2026-10-26",
+   "periodo_texto": "De 18/09/2026 até 26/10/2026 às 18:00, horário oficial de Brasília/DF",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/CBM_AL_26",
+   "editais": [
+    {
+     "descricao": "Edital nº 9 - Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida, referente ao período de reabertura das solicitações",
+     "data": "13/10/2026 10:00",
+     "arquivo": "8947C2F248C28CD048F70C326634E4328F568291B5683A84C11699BAAE859CBD.pdf"
+    },
+    {
+     "descricao": "Edital nº 8 – Reabertura das Inscrições e Ampliação das Vagas para Pessoas com Deficiência",
+     "data": "11/09/2026 10:00",
+     "arquivo": "1461375DDE7BA3CE76FA0302A3176FEEBEFDD6C0AC95F75149CC944C337E3DAE.pdf"
+    },
+    {
+     "descricao": "Edital nº 7 - Retificação do edital de abertura, reabertura das inscrições e alteração do cronograma",
+     "data": "08/09/2026 09:45",
+     "arquivo": "4ACB52AF3CF32C7145F3F02FA50B9A5DF520BE7CABC37D98774476DBDDE781E5.pdf"
+    },
+    {
+     "descricao": "Edital nº 6 – Suspensão do concurso público",
+     "data": "13/08/2026 09:00",
+     "arquivo": "009501E30B40B230A7CFA2608D9B68698A612FAD92B0A24DBF2064B95C3DF220.pdf"
+    },
+    {
+     "descricao": "Relação provisória de candidatas que tiveram a solicitação de atendimento especializado para lactantes deferida",
+     "data": "05/08/2026 09:15",
+     "arquivo": "310AD199339F489111548F072DB30C2BE785ACE996E92464DB7C1D5941B7F2A0.pdf"
+    },
+    {
+     "descricao": "Edital nº 5 – Relação final dos candidatos com a solicitação de isenção da taxa de inscrição deferida",
+     "data": "21/07/2026 09:40",
+     "arquivo": "F1216EC690F99014C95C09BF452665E48341B54852DF7F01874B239614F38D0E.pdf"
+    },
+    {
+     "descricao": "Comunicado - Prorrogação do prazo para a interposição de recursos contra a situação provisória de isenção de taxa",
+     "data": "10/07/2026 16:00",
+     "arquivo": "B863F750A8EA85278CE3CD64E5C1889BBE5769E785A92C0695996811BFDFE1DF.pdf"
+    },
+    {
+     "descricao": "Edital nº 4 - Retificação dos requisitos para o Cargo 2: Soldado do Quadro de Praças, divulgados por meio dos subitens 2.2.1 e 2.2.2 do Edital nº 1 – CBM/AL",
+     "data": "10/07/2026 09:00",
+     "arquivo": "CB994D83051AE7DFAF01C4D636B6DB5C30733E57A7DB31A4656EBBBF059034BC.pdf"
+    }
+   ]
+  },
+  {
+   "id": "cebraspe-tce_ac_26",
+   "fonte": "Cebraspe",
+   "sigla": "TCE AC 26",
+   "orgao": "Concurso para provimento do cargo efetivo de Conselheiro Substituto (Auditor) do TCE/AC",
+   "status": "aberto",
+   "uf": "AC",
+   "categorias": [],
+   "cargos": [
+    "AUDITOR – CONSELHEIRO SUBSTITUTO"
+   ],
+   "vagas": 1,
+   "salario_max": 39753.22,
+   "inicio": "2026-10-05",
+   "fim": "2026-10-26",
+   "periodo_texto": "De 05/10/2026 até 26/10/2026 às 18:00, horário oficial de Brasília/DF",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/TCE_AC_26",
+   "editais": [
+    {
+     "descricao": "Edital nº 4 - Retificação dos requisitos, reabertura do período para solicitação de inscrição e de isenção de taxa e do prazo para o envio da documentação",
+     "data": "01/10/2026 10:00",
+     "arquivo": "F3D0294841D36A2CC52E39BC6EC3BE68F48739F96CCACF4A0085117AEFEEFDC2.pdf"
+    },
+    {
+     "descricao": "Edital nº 3 - Suspensão do concurso público para o cargo de auditor – conselheiro substituto",
+     "data": "25/08/2026 09:00",
+     "arquivo": "A393459D2B2C051057DB55508329CF06DDEA9A141CA378A0FD13F4EF2FE07B07.pdf"
+    },
+    {
+     "descricao": "Relação final das candidatas com a solicitação de atendimento especializado como lactante deferida",
+     "data": "19/08/2026 09:00",
+     "arquivo": "44ED815D29B798C547BCD76416CD110B277271A1849956703E5D4F5CF8AFF483.pdf"
+    },
+    {
+     "descricao": "Relação final dos candidatos com a inscrição deferida para concorrer na condição de pessoa com deficiência",
+     "data": "19/08/2026 09:00",
+     "arquivo": "79650A92F7D118306074A5E2581877FA4547FBD18C00F6A2B861F141B739D9F0.pdf"
+    },
+    {
+     "descricao": "Relação provisória dos candidatos com a inscrição deferida para concorrer na condição de pessoa com deficiência",
+     "data": "04/08/2026 10:00",
+     "arquivo": "6170BDF1E38677A58A2D3101C6A7FF33927DE141DDEA9B8A7B2173235F1E61AB.pdf"
+    },
+    {
+     "descricao": "Relação provisória das candidatas com a solicitação de atendimento especializado como lactante deferida",
+     "data": "04/08/2026 10:00",
+     "arquivo": "5F9C97846F63A3A689A76BEB06D777BE121A321A44E693F3BA3D424B6BEE4D41.pdf"
+    },
+    {
+     "descricao": "Edital nº 2 - Retificações",
+     "data": "18/06/2026 10:00",
+     "arquivo": "08631EEA497327E4AD1E60EE21311EA9A246FA50B8E053D1C3FE99A09119F97D.pdf"
+    },
+    {
+     "descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações",
+     "data": "02/06/2026 09:40",
+     "arquivo": "8384D11A6845FEBC73B179E59BEBB764046E268FD6FA7E51349F6B7BABED6943.pdf"
+    }
+   ]
+  },
+  {
+   "id": "cebraspe-cgu_26_affc",
+   "fonte": "Cebraspe",
+   "sigla": "CGU 26 AFFC",
+   "orgao": "CGU 26 AFFC",
+   "status": "aberto",
+   "uf": "BR",
+   "categorias": [
+    "TI"
+   ],
+   "cargos": [
+    "CARGO 1: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: AUDITORIA",
+    "CARGO 2: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – CIÊNCIA DE DADOS",
+    "CARGO 3: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – INFRAESTRUTURA DE TI",
+    "CARGO 4: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – DESENVOLVIMENTO DE SISTEMAS"
+   ],
+   "vagas": 60,
+   "salario_max": 20000.0,
+   "inicio": "2026-10-10",
+   "fim": "2026-11-04",
+   "periodo_texto": "De 10/10/2026 até 04/11/2026 às 18:00, horário oficial de Brasília/DF",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/CGU_26_AFFC",
+   "editais": [
+    {
+     "descricao": "Edital nº 2 – Retificação do subitem 6.2.4 e do Anexo I – Cronograma Previsto do Edital nº 1",
+     "data": "15/10/2026 10:00",
+     "arquivo": "8CC969EF9F81DD9088CC93655FE2734C95419BE8A9285A887D96D915605D867C.pdf"
+    },
+    {
+     "descricao": "Comunicado – Pagamento da taxa de inscrição via Pix ficará temporariamente indisponível no dia 10 de outubro de 2026",
+     "data": "09/10/2026 18:40",
+     "arquivo": "A26FBD902F8715F8D919268DB45102EEEED3469F579C9648BE65D97AE4CAE800.pdf"
+    },
+    {
+     "descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações",
+     "data": "09/10/2026 10:00",
+     "arquivo": "FDEEFB41D8ACD48AB369A9915EA1A48C67389EC91427E98F6F264E19B1F63FB9.pdf"
+    },
+    {
+     "descricao": "Edital nº 1 - Abertura",
+     "data": "09/10/2026 10:00",
+     "arquivo": "C7A60D15CB0DDDFA92233056D728C555505D6B935D7048646D49445EB346F825.pdf"
+    }
+   ]
+  },
+  {
+   "id": "cebraspe-cd_26_analista",
+   "fonte": "Cebraspe",
+   "sigla": "CÂMARA DOS DEPUTADOS 26 ANALISTA",
+   "orgao": "CÂMARA DOS DEPUTADOS 26 ANALISTA LEGISLATIVO",
+   "status": "aberto",
+   "uf": "BR",
+   "categorias": [],
+   "cargos": [
+    "CARGO 01: ANALISTA LEGISLATIVO – ESPECIALIDADE: COMUNICAÇÃO SOCIAL – ÁREA: DIVULGAÇÃO INSTITUCIONAL",
+    "CARGO 02: ANALISTA LEGISLATIVO – ESPECIALIDADE: COMUNICAÇÃO SOCIAL – ÁREA: JORNALISMO",
+    "CARGO 03: ANALISTA LEGISLATIVO – ESPECIALIDADE: COMUNICAÇÃO SOCIAL – ÁREA: RELAÇÕES PÚBLICAS",
+    "CARGO 04: ANALISTA LEGISLATIVO – ESPECIALIDADE: DOCUMENTAÇÃO E INFORMAÇÃO LEGISLATIVA – ÁREA: ARQUIVOLOGIA",
+    "CARGO 05: ANALISTA LEGISLATIVO – ESPECIALIDADE: DOCUMENTAÇÃO E INFORMAÇÃO LEGISLATIVA – ÁREA: BIBLIOTECONOMIA",
+    "CARGO 06: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA CIVIL",
+    "CARGO 07: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA ELÉTRICA",
+    "CARGO 08: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA ELETRÔNICA/TELECOMUNICAÇÕES",
+    "CARGO 09: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA MECÂNICA",
+    "CARGO 10: ANALISTA LEGISLATIVO – ESPECIALIDADE: MUSEÓLOGO",
+    "CARGO 11: ANALISTA LEGISLATIVO – ESPECIALIDADE: REGISTRO E REDAÇÃO"
+   ],
    "vagas": 0,
+   "salario_max": 0.0,
+   "inicio": "2026-10-15",
+   "fim": "2026-11-17",
+   "periodo_texto": "De 15/10/2026 até 17/11/2026 às 18:00, horário oficial de Brasília/DF",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/CD_26_ANALISTA",
+   "editais": [
+    {
+     "descricao": "Edital nº 5 - Retificação dos subitens 2.1, 2.2, 2.4.1, 2.5.1, 2.5.2, 2.5.3, 2.5.4 e 14.2.4; inclusão do subitem 2.8 e atualização do quadro de vagas constante do subitem 4.1 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro de 2026",
+     "data": "15/10/2026 11:45",
+     "arquivo": "3FBDBB5294547B38537683E819608B5FB8DB0366C22D40681F2B19FC69A8A652.pdf"
+    },
+    {
+     "descricao": "Edital nº 4 - Resultado final no sorteio das vagas reservadas de  que trata o subitem 5.1.4 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro  de 2026",
+     "data": "13/10/2026 18:55",
+     "arquivo": "787E713B1C1573FD3B8D4C17D9145E440429F317ADFFC8A07D92594D961D3830.pdf"
+    },
+    {
+     "descricao": "Edital nº 3 - Resultado provisório no sorteio das vagas reservadas de que trata o subitem 5.1.4 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro de 2026",
+     "data": "09/10/2026 14:45",
+     "arquivo": "133EDBEE591578369AA5117750F230D729D489E329F51213760D28D5EF367A0D.pdf"
+    },
+    {
+     "descricao": "Ata do Sorteio Público destinado à distribuição de vagas reservadas no concurso público da Câmara dos Deputados",
+     "data": "08/10/2026 13:01",
+     "arquivo": "3997D83E84019AD83E6039836490D4F0CF955180AC5F620B78436717E578A32A.pdf"
+    },
+    {
+     "descricao": "Edital nº 2 - Sorteio público destinado à distribuição de duas vagas reservadas de provimento imediato",
+     "data": "05/10/2026 09:09",
+     "arquivo": "B4CC8387742A0FCD9975D7DC2F3D752A3E6FB75E362960AF0664C8C799209D33.pdf"
+    },
+    {
+     "descricao": "Edital nº 1 - Abertura",
+     "data": "02/10/2026 18:33",
+     "arquivo": "BBE30D016054F40651E36AC7B302C3425BD148A39675CA840A5A0CCBFBB5F0F1.pdf"
+    }
+   ]
+  },
+  {
+   "id": "cebraspe-pc_pe_26",
+   "fonte": "Cebraspe",
+   "sigla": "PC PE 26",
+   "orgao": "PC PE 26",
+   "status": "aberto",
+   "uf": "PE",
+   "categorias": [
+    "Polícia"
+   ],
+   "cargos": [
+    "Cargo 1: Agente de Polícia",
+    "Cargo 2: Delegado de Polícia",
+    "Cargo 3: Escrivão de Polícia"
+   ],
+   "vagas": 1315,
+   "salario_max": 13560.0,
+   "inicio": "2026-10-15",
+   "fim": "2026-12-16",
+   "periodo_texto": "De 15/10/2026 até 16/12/2026 às 18:00, horário oficial de Brasília/DF",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/PC_PE_26",
+   "editais": [
+    {
+     "descricao": "Edital nº 1 - Abertura",
+     "data": "02/10/2026 18:00",
+     "arquivo": "C8954198EED687EE933077C3EC25BFDB828354459F7AA3D175D6265BF6DF10C9.pdf"
+    }
+   ]
+  },
+  {
+   "id": "cebraspe-tj_ce_25_notarios",
+   "fonte": "Cebraspe",
+   "sigla": "TJ CE 25 NOTÁRIOS",
+   "orgao": "TJ CE 25 NOTÁRIOS",
+   "status": "edital",
+   "uf": "CE",
+   "categorias": [],
+   "cargos": [
+    "Provimento",
+    "Remoção"
+   ],
+   "vagas": 44,
    "salario_max": 0.0,
    "inicio": "",
    "fim": "",
@@ -26,8 +401,49 @@
    "taxa": null,
    "escolaridade": null,
    "locais": null,
-   "link": "https://www.cebraspe.org.br/concursos/",
-   "editais": []
+   "link": "https://www.cebraspe.org.br/concursos/TJ_CE_25_NOTARIOS",
+   "editais": [
+    {
+     "descricao": "Edital nº 7 – Suspensão do Concurso Público",
+     "data": "24/10/2025 10:15",
+     "arquivo": "270F066BFA20E8589493F073D69D58AA96351C1B55BF7FDAF850676581FEF261.pdf"
+    },
+    {
+     "descricao": "Edital nº 6 – Adiamento do período de solicitação de inscrição",
+     "data": "20/08/2025 18:50",
+     "arquivo": "4BB372ACDB98D2ADDB8BDB7F07C6482160F3FA815FB706E2D46CFBAB50B37ECD.pdf"
+    },
+    {
+     "descricao": "Edital nº 5 – Retificação do Anexo II – Lista de Serventias do Edital nº 1",
+     "data": "22/07/2025 13:10",
+     "arquivo": "Ed_5_2025_TJ_CE_Notarios_Ret_Serventias.pdf"
+    },
+    {
+     "descricao": "Edital nº 4 - Retificação dos subitens 5.1.1.1, 6.4.1.4, 6.4.9.8.1, 6.4.9.8.1.2, 8.6, 15.1, 19.2 e do Anexo II – Lista de Serventias, do Edital nº 1, bem como a inclusão do subitem 8.15.5.1 no referido edital",
+     "data": "08/07/2025 10:00",
+     "arquivo": "Ed_4_2025_TJ_CE_Notarios_Ret_Impugnacoes.pdf"
+    },
+    {
+     "descricao": "Edital nº 3 – Republicação do Anexo II – Lista de Serventias do Edital nº 1",
+     "data": "04/07/2025 17:30",
+     "arquivo": "Ed_3_2025_TJ_CE_Notarios_Ret_Serventias.pdf"
+    },
+    {
+     "descricao": "Edital nº 2 - Informações sobre o sorteio da ordem de serventias a serem instaladas e o sorteio de serventias destinadas aos candidatos negros (pretos e pardos) e candidatos com deficiência",
+     "data": "04/07/2025 17:25",
+     "arquivo": "EDITAL 02_2025 - COMISSÃO DO CONCURSO PÚBLICO DE PROVAS E TÍTULOS PARA A OUTORGA DE DELEGAÇÕES DE NOTAS E DE REGISTRO DO ESTADO DO CEARÁ.pdf"
+    },
+    {
+     "descricao": "Comunicado - \tAudiência pública destinada ao sorteio das serventias reservadas às cotas",
+     "data": "27/06/2025 18:10",
+     "arquivo": "TJ_CE_Notarios_Comunicado_Adiamento_Audiencia_Publica.pdf"
+    },
+    {
+     "descricao": "Respostas às impugnações, conforme estabelecido no subitem 1.5 do edital nº 1",
+     "data": "27/06/2025 17:45",
+     "arquivo": "TJ_CE_Notarios_Respostas_Impugnacoes.pdf"
+    }
+   ]
   }
  ]
 }
