@@ -18,15 +18,13 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: playwright install --with-deps chromium
-      - run: python scripts/coletar_cebraspe.py
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: debug
-          path: debug/
+      - name: Rodar coletores
+        run: |
+          for f in scripts/coletar_*.py; do python "$f" || echo "Falhou: $f"; done
+          python scripts/consolidar.py
       - name: Salvar dados
         run: |
           git config user.name "robo-concursos"
           git config user.email "robo@users.noreply.github.com"
-          git add data/concursos.json || true
+          git add data/
           git diff --staged --quiet || (git commit -m "Atualiza concursos" && git push)
