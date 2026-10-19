@@ -119,9 +119,16 @@ def main():
         for fase in FASES:
             r = api(f"eventos/tipo/concursos/fase/{fase}")
             if isinstance(r, list):
-                print(f"Fase {fase}: {len(r)} concursos")
-                for it in r:
-                    itens.setdefault(it.get("eventoURL"), it)
+                eventos = []
+                for grupo in r:
+                    if isinstance(grupo, dict) and isinstance(grupo.get("eventos"), list):
+                        eventos += grupo["eventos"]
+                    elif isinstance(grupo, dict):
+                        eventos.append(grupo)
+                eventos = [e for e in eventos if isinstance(e, dict) and e.get("eventoURL")]
+                print(f"Fase {fase}: {len(eventos)} concursos")
+                for it in eventos:
+                    itens.setdefault(it["eventoURL"], it)
             else:
                 print(f"Fase {fase}: sem dados ({r})")
  
