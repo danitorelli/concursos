@@ -1,0 +1,28 @@
+{
+ "atualizado": "2026-10-19T18:25:25+00:00",
+ "fonte": "Cebraspe",
+ "debug_links": [],
+ "concursos": [
+  {
+   "id": "cebraspe",
+   "fonte": "Cebraspe",
+   "sigla": "",
+   "orgao": "",
+   "status": "edital",
+   "uf": "BR",
+   "categorias": [],
+   "cargos": [],
+   "vagas": 0,
+   "salario_max": 0.0,
+   "inicio": "",
+   "fim": "",
+   "periodo_texto": "",
+   "prova": null,
+   "taxa": null,
+   "escolaridade": null,
+   "locais": null,
+   "link": "https://www.cebraspe.org.br/concursos/",
+   "editais": []
+  }
+ ]
+}
