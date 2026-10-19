@@ -1,0 +1,32 @@
+name: Coletar concursos
+ 
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia às 06:00 no horário de Brasília
+  workflow_dispatch:       # permite rodar manualmente
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: playwright install --with-deps chromium
+      - run: python scripts/coletar_cebraspe.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: debug
+          path: debug/
+      - name: Salvar dados
+        run: |
+          git config user.name "robo-concursos"
+          git config user.email "robo@users.noreply.github.com"
+          git add data/concursos.json || true
+          git diff --staged --quiet || (git commit -m "Atualiza concursos" && git push)
