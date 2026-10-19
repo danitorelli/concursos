@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T18:33:58+00:00",
+ "atualizado": "2026-10-19T18:40:31+00:00",
  "fonte": "Cebraspe",
  "debug_links": [
   {
@@ -34,7 +34,7 @@
    "sigla": "ADEAL 26",
    "orgao": "ADEAL 26",
    "status": "aberto",
-   "uf": "BR",
+   "uf": "AL",
    "categorias": [],
    "cargos": [
     "CARGO 1: FISCAL ESTADUAL AGROPECUÁRIO – ESPECIALIDADE: ENGENHARIA AGRONÔMICA",
@@ -45,10 +45,14 @@
    "inicio": "2026-09-15",
    "fim": "2026-10-20",
    "periodo_texto": "De 15/09/2026 até 20/10/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": null,
-   "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "prova": "2026-12-13",
+   "taxa": 200.0,
+   "escolaridade": [
+    "Superior"
+   ],
+   "locais": [
+    "Maceió/AL"
+   ],
    "link": "https://www.cebraspe.org.br/concursos/ADEAL_26",
    "editais": [
     {
@@ -66,7 +70,20 @@
      "data": "24/08/2026 09:40",
      "arquivo": "B77102106228ED45E12CC18C9A22A1E3B2230241E995BF594F69AE88A34D1AF1.pdf"
     }
-   ]
+   ],
+   "taxas": [
+    200.0
+   ],
+   "taxa_texto": "R$ 200,00.",
+   "escolaridade_texto": "diploma, devidamente registrado, de conclusão de curso de graduação em Engenharia Agronômica, fornecido por instituição de ensino superior reconh ecida pelo Ministério da Educação (MEC), registro no respectivo conselho de classe e habilitação para conduzir veículos automotores categoria “B”.",
+   "locais_texto": "Maceió/AL",
+   "prova_trecho": "Aplicação das provas objetivas e da prova discursiva 13/12/2026 Consulta individual aos gabaritos ofici",
+   "remuneracoes": [
+    7320.42
+   ],
+   "salario_min": 7320.42,
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/ADEAL_26/arquivos/B77102106228ED45E12CC18C9A22A1E3B2230241E995BF594F69AE88A34D1AF1.pdf",
+   "edital_descricao": "Edital nº 1 – Abertura"
   },
   {
    "id": "cebraspe-cd_26_analista",
@@ -90,14 +107,16 @@
     "CARGO 11: ANALISTA LEGISLATIVO – ESPECIALIDADE: REGISTRO E REDAÇÃO"
    ],
    "vagas": 0,
-   "salario_max": 0.0,
+   "salario_max": 32070.88,
    "inicio": "2026-10-15",
    "fim": "2026-11-17",
    "periodo_texto": "De 15/10/2026 até 17/11/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": null,
-   "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "prova": "2027-01-17",
+   "taxa": 130.0,
+   "escolaridade": [
+    "Superior"
+   ],
+   "locais": [],
    "link": "https://www.cebraspe.org.br/concursos/CD_26_ANALISTA",
    "editais": [
     {
@@ -130,7 +149,19 @@
      "data": "02/10/2026 18:33",
      "arquivo": "BBE30D016054F40651E36AC7B302C3425BD148A39675CA840A5A0CCBFBB5F0F1.pdf"
     }
-   ]
+   ],
+   "taxas": [
+    130.0
+   ],
+   "taxa_texto": "R$ 130,00.",
+   "escolaridade_texto": "diploma, devidamente registrado, de conclusão de curso de graduação d e nível superior em Arquivologia, fornecido por instituição de ensino superior reconhecida pelo MEC, e registro no respectivo conselho de exercício profissional.",
+   "prova_trecho": "Aplicação das provas objetivas e discursiva 17/1/2027 Consulta individual aos gabaritos ofici",
+   "remuneracoes": [
+    32070.88
+   ],
+   "salario_min": 32070.88,
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/CD_26_ANALISTA/arquivos/BBE30D016054F40651E36AC7B302C3425BD148A39675CA840A5A0CCBFBB5F0F1.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura"
   },
   {
    "id": "cebraspe-cbm_al_26",
@@ -140,7 +171,8 @@
    "status": "aberto",
    "uf": "AL",
    "categorias": [
-    "Bombeiro"
+    "Bombeiro",
+    "Nível médio"
    ],
    "cargos": [
     "CARGO 1: OFICIAL DE ESTADO-MAIOR",
@@ -153,9 +185,14 @@
    "fim": "2026-10-26",
    "periodo_texto": "De 18/09/2026 até 26/10/2026 às 18:00, horário oficial de Brasília/DF",
    "prova": null,
-   "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "taxa": 150.0,
+   "escolaridade": [
+    "Médio"
+   ],
+   "locais": [
+    "Arapiraca/AL",
+    "Maceió/AL"
+   ],
    "link": "https://www.cebraspe.org.br/concursos/CBM_AL_26",
    "editais": [
     {
@@ -198,7 +235,15 @@
      "data": "10/07/2026 09:00",
      "arquivo": "CB994D83051AE7DFAF01C4D636B6DB5C30733E57A7DB31A4656EBBBF059034BC.pdf"
     }
-   ]
+   ],
+   "taxas": [
+    150.0
+   ],
+   "taxa_texto": "R$ 150,00.",
+   "escolaridade_texto": "certificado, devidamente registrado, de conclusão de curso de ensino médio, expedido por instituição de ensino reconhecida pela Secretaria de Educação ou órgão competente, e carteira nacional de habilitação (CNH) válida, no mínimo, na categoria “b”, ou provisória para essa categoria (a qual deverá s",
+   "locais_texto": "Arapiraca/AL e Maceió/AL",
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/CBM_AL_26/arquivos/B85769E8570FC5EE18C6B03DCD72F48D61839813F67EB8C3E94CB4F376675EEE.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações"
   },
   {
    "id": "cebraspe-cgu_26_affc",
@@ -222,9 +267,9 @@
    "fim": "2026-11-04",
    "periodo_texto": "De 10/10/2026 até 04/11/2026 às 18:00, horário oficial de Brasília/DF",
    "prova": null,
-   "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "taxa": 170.0,
+   "escolaridade": [],
+   "locais": [],
    "link": "https://www.cebraspe.org.br/concursos/CGU_26_AFFC",
    "editais": [
     {
@@ -247,7 +292,13 @@
      "data": "09/10/2026 10:00",
      "arquivo": "C7A60D15CB0DDDFA92233056D728C555505D6B935D7048646D49445EB346F825.pdf"
     }
-   ]
+   ],
+   "taxas": [
+    170.0
+   ],
+   "taxa_texto": "R$ 170,00.",
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/CGU_26_AFFC/arquivos/FDEEFB41D8ACD48AB369A9915EA1A48C67389EC91427E98F6F264E19B1F63FB9.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações"
   },
   {
    "id": "cebraspe-pc_pe_26",
@@ -269,10 +320,15 @@
    "inicio": "2026-10-15",
    "fim": "2026-12-16",
    "periodo_texto": "De 15/10/2026 até 16/12/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": null,
+   "prova": "2027-03-07",
    "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "escolaridade": [],
+   "locais": [
+    "Arcoverde/PE",
+    "Caruaru/PE",
+    "Petrolina/PE",
+    "Recife/PE"
+   ],
    "link": "https://www.cebraspe.org.br/concursos/PC_PE_26",
    "editais": [
     {
@@ -280,7 +336,11 @@
      "data": "02/10/2026 18:00",
      "arquivo": "C8954198EED687EE933077C3EC25BFDB828354459F7AA3D175D6265BF6DF10C9.pdf"
     }
-   ]
+   ],
+   "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
+   "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas ",
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/PC_PE_26/arquivos/C8954198EED687EE933077C3EC25BFDB828354459F7AA3D175D6265BF6DF10C9.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura"
   },
   {
    "id": "cebraspe-sefaz_al_26",
@@ -298,10 +358,12 @@
    "inicio": "2026-09-17",
    "fim": "2026-10-21",
    "periodo_texto": "De 17/09/2026 até 21/10/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": null,
-   "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "prova": "2026-12-20",
+   "taxa": 300.0,
+   "escolaridade": [],
+   "locais": [
+    "Maceió/AL"
+   ],
    "link": "https://www.cebraspe.org.br/concursos/SEFAZ_AL_26",
    "editais": [
     {
@@ -334,7 +396,19 @@
      "data": "25/08/2026 10:00",
      "arquivo": "BCC5FB85FDED7931F46C44BF209ABD7F3D660AB0C9ED5B06CDA483EC7A42F3E7.pdf"
     }
-   ]
+   ],
+   "taxas": [
+    300.0
+   ],
+   "taxa_texto": "R$ 300,00.",
+   "locais_texto": "Maceió/AL",
+   "prova_trecho": "Aplicação das provas objetivas 20/12/2026 Consulta individual aos gabaritos ofici",
+   "remuneracoes": [
+    25270.68
+   ],
+   "salario_min": 25270.68,
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/SEFAZ_AL_26/arquivos/F317460224E42B1C2CF8434E69696571F3F5EDBE2EA2FFE3B2AC27139650B343.pdf",
+   "edital_descricao": "Edital nº 1 – Abertura – Atualizado conforme retificações"
   },
   {
    "id": "cebraspe-tce_ac_26",
@@ -352,10 +426,12 @@
    "inicio": "2026-10-05",
    "fim": "2026-10-26",
    "periodo_texto": "De 05/10/2026 até 26/10/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": null,
-   "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "prova": "2027-01-17",
+   "taxa": 380.0,
+   "escolaridade": [],
+   "locais": [
+    "Rio Branco/AC"
+   ],
    "link": "https://www.cebraspe.org.br/concursos/TCE_AC_26",
    "editais": [
     {
@@ -398,14 +474,26 @@
      "data": "02/06/2026 09:40",
      "arquivo": "8384D11A6845FEBC73B179E59BEBB764046E268FD6FA7E51349F6B7BABED6943.pdf"
     }
-   ]
+   ],
+   "taxas": [
+    380.0
+   ],
+   "taxa_texto": "R$ 380,00.",
+   "locais_texto": "Rio Branco/AC",
+   "prova_trecho": "Aplicação das provas objetiva e discursiva 17/1/2027 Consulta individual aos gabaritos ofici",
+   "remuneracoes": [
+    39753.22
+   ],
+   "salario_min": 39753.22,
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/TCE_AC_26/arquivos/8384D11A6845FEBC73B179E59BEBB764046E268FD6FA7E51349F6B7BABED6943.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações"
   },
   {
    "id": "cebraspe-tj_ce_25_notarios",
    "fonte": "Cebraspe",
    "sigla": "TJ CE 25 NOTÁRIOS",
    "orgao": "TJ CE 25 NOTÁRIOS",
-   "status": "edital",
+   "status": "suspenso",
    "uf": "CE",
    "categorias": [],
    "cargos": [
@@ -419,8 +507,8 @@
    "periodo_texto": "",
    "prova": null,
    "taxa": null,
-   "escolaridade": null,
-   "locais": null,
+   "escolaridade": [],
+   "locais": [],
    "link": "https://www.cebraspe.org.br/concursos/TJ_CE_25_NOTARIOS",
    "editais": [
     {

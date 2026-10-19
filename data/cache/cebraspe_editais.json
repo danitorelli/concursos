@@ -1,0 +1,126 @@
+{
+ "ADEAL_26/B77102106228ED45E12CC18C9A22A1E3B2230241E995BF594F69AE88A34D1AF1.pdf": {
+  "taxa": 200.0,
+  "taxas": [
+   200.0
+  ],
+  "taxa_texto": "R$ 200,00.",
+  "remuneracoes": [
+   7320.42
+  ],
+  "escolaridade": [
+   "Superior"
+  ],
+  "escolaridade_texto": "diploma, devidamente registrado, de conclusão de curso de graduação em Engenharia Agronômica, fornecido por instituição de ensino superior reconh ecida pelo Ministério da Educação (MEC), registro no respectivo conselho de classe e habilitação para conduzir veículos automotores categoria “B”.",
+  "locais": [
+   "Maceió/AL"
+  ],
+  "locais_texto": "Maceió/AL",
+  "prova": "2026-12-13",
+  "prova_trecho": "Aplicação das provas objetivas e da prova discursiva 13/12/2026 Consulta individual aos gabaritos ofici"
+ },
+ "CD_26_ANALISTA/BBE30D016054F40651E36AC7B302C3425BD148A39675CA840A5A0CCBFBB5F0F1.pdf": {
+  "taxa": 130.0,
+  "taxas": [
+   130.0
+  ],
+  "taxa_texto": "R$ 130,00.",
+  "remuneracoes": [
+   32070.88
+  ],
+  "escolaridade": [
+   "Superior"
+  ],
+  "escolaridade_texto": "diploma, devidamente registrado, de conclusão de curso de graduação d e nível superior em Arquivologia, fornecido por instituição de ensino superior reconhecida pelo MEC, e registro no respectivo conselho de exercício profissional.",
+  "locais": [],
+  "locais_texto": null,
+  "prova": "2027-01-17",
+  "prova_trecho": "Aplicação das provas objetivas e discursiva 17/1/2027 Consulta individual aos gabaritos ofici"
+ },
+ "CBM_AL_26/B85769E8570FC5EE18C6B03DCD72F48D61839813F67EB8C3E94CB4F376675EEE.pdf": {
+  "taxa": 150.0,
+  "taxas": [
+   150.0
+  ],
+  "taxa_texto": "R$ 150,00.",
+  "remuneracoes": [],
+  "escolaridade": [
+   "Médio"
+  ],
+  "escolaridade_texto": "certificado, devidamente registrado, de conclusão de curso de ensino médio, expedido por instituição de ensino reconhecida pela Secretaria de Educação ou órgão competente, e carteira nacional de habilitação (CNH) válida, no mínimo, na categoria “b”, ou provisória para essa categoria (a qual deverá s",
+  "locais": [
+   "Arapiraca/AL",
+   "Maceió/AL"
+  ],
+  "locais_texto": "Arapiraca/AL e Maceió/AL",
+  "prova": null,
+  "prova_trecho": null
+ },
+ "CGU_26_AFFC/FDEEFB41D8ACD48AB369A9915EA1A48C67389EC91427E98F6F264E19B1F63FB9.pdf": {
+  "taxa": 170.0,
+  "taxas": [
+   170.0
+  ],
+  "taxa_texto": "R$ 170,00.",
+  "remuneracoes": [],
+  "escolaridade": [],
+  "escolaridade_texto": null,
+  "locais": [],
+  "locais_texto": null,
+  "prova": null,
+  "prova_trecho": null
+ },
+ "PC_PE_26/C8954198EED687EE933077C3EC25BFDB828354459F7AA3D175D6265BF6DF10C9.pdf": {
+  "taxa": null,
+  "taxas": [],
+  "taxa_texto": null,
+  "remuneracoes": [],
+  "escolaridade": [],
+  "escolaridade_texto": null,
+  "locais": [
+   "Arcoverde/PE",
+   "Caruaru/PE",
+   "Petrolina/PE",
+   "Recife/PE"
+  ],
+  "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
+  "prova": "2027-03-07",
+  "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas "
+ },
+ "SEFAZ_AL_26/F317460224E42B1C2CF8434E69696571F3F5EDBE2EA2FFE3B2AC27139650B343.pdf": {
+  "taxa": 300.0,
+  "taxas": [
+   300.0
+  ],
+  "taxa_texto": "R$ 300,00.",
+  "remuneracoes": [
+   25270.68
+  ],
+  "escolaridade": [],
+  "escolaridade_texto": null,
+  "locais": [
+   "Maceió/AL"
+  ],
+  "locais_texto": "Maceió/AL",
+  "prova": "2026-12-20",
+  "prova_trecho": "Aplicação das provas objetivas 20/12/2026 Consulta individual aos gabaritos ofici"
+ },
+ "TCE_AC_26/8384D11A6845FEBC73B179E59BEBB764046E268FD6FA7E51349F6B7BABED6943.pdf": {
+  "taxa": 380.0,
+  "taxas": [
+   380.0
+  ],
+  "taxa_texto": "R$ 380,00.",
+  "remuneracoes": [
+   39753.22
+  ],
+  "escolaridade": [],
+  "escolaridade_texto": null,
+  "locais": [
+   "Rio Branco/AC"
+  ],
+  "locais_texto": "Rio Branco/AC",
+  "prova": "2027-01-17",
+  "prova_trecho": "Aplicação das provas objetiva e discursiva 17/1/2027 Consulta individual aos gabaritos ofici"
+ }
+}
