@@ -1,7 +1,15 @@
 {
- "atualizado": "2026-10-19T18:40:31+00:00",
+ "atualizado": "2026-10-20T14:01:59+00:00",
  "fonte": "Cebraspe",
  "debug_links": [
+  {
+   "t": "Edital nº 3 - Resultado final na isenção - Em Vlibras",
+   "h": "https://cdn.cebraspe.org.br/concursos/ADEAL_26/arquivos/59FE4353ADB1D06CE333E572692EFDAE0DE4CD4D4622834E73F92FE5A11EAEE2.html"
+  },
+  {
+   "t": "Edital nº 3 - Resultado final na isenção",
+   "h": "https://cdn.cebraspe.org.br/concursos/ADEAL_26/arquivos/A9A9D2EBEBD3C9D477D8E605921EDE0A2479F9CCBBF6DD124FA1BB30395692EC.pdf"
+  },
   {
    "t": "Edital nº 2 - Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida - em VLibras",
    "h": "https://cdn.cebraspe.org.br/concursos/ADEAL_26/arquivos/874630D76C63F8F5DC39649B34110C22D3C2D4AFB701F37FAAA1AE1CE0B4E731.html"
@@ -55,6 +63,11 @@
    ],
    "link": "https://www.cebraspe.org.br/concursos/ADEAL_26",
    "editais": [
+    {
+     "descricao": "Edital nº 3 - Resultado final na isenção",
+     "data": "20/10/2026 10:25",
+     "arquivo": "A9A9D2EBEBD3C9D477D8E605921EDE0A2479F9CCBBF6DD124FA1BB30395692EC.pdf"
+    },
     {
      "descricao": "Edital nº 2 - Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida",
      "data": "05/10/2026 15:45",
