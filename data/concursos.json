@@ -1,75 +1,13 @@
 {
- "atualizado": "2026-10-20T14:01:59+00:00",
+ "atualizado": "2026-10-21T14:17:27+00:00",
  "fontes": [
   {
    "fonte": "Cebraspe",
-   "atualizado": "2026-10-20T14:01:59+00:00",
-   "total": 8
+   "atualizado": "2026-10-21T14:17:27+00:00",
+   "total": 7
   }
  ],
  "concursos": [
-  {
-   "id": "cebraspe-adeal_26",
-   "fonte": "Cebraspe",
-   "sigla": "ADEAL 26",
-   "orgao": "ADEAL 26",
-   "status": "aberto",
-   "uf": "AL",
-   "categorias": [],
-   "cargos": [
-    "CARGO 1: FISCAL ESTADUAL AGROPECUÁRIO – ESPECIALIDADE: ENGENHARIA AGRONÔMICA",
-    "CARGO 2: FISCAL ESTADUAL AGROPECUÁRIO – ESPECIALIDADE: MEDICINA VETERINÁRIA"
-   ],
-   "vagas": 20,
-   "salario_max": 7320.42,
-   "inicio": "2026-09-15",
-   "fim": "2026-10-20",
-   "periodo_texto": "De 15/09/2026 até 20/10/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": "2026-12-13",
-   "taxa": 200.0,
-   "escolaridade": [
-    "Superior"
-   ],
-   "locais": [
-    "Maceió/AL"
-   ],
-   "link": "https://www.cebraspe.org.br/concursos/ADEAL_26",
-   "editais": [
-    {
-     "descricao": "Edital nº 3 - Resultado final na isenção",
-     "data": "20/10/2026 10:25",
-     "arquivo": "A9A9D2EBEBD3C9D477D8E605921EDE0A2479F9CCBBF6DD124FA1BB30395692EC.pdf"
-    },
-    {
-     "descricao": "Edital nº 2 - Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida",
-     "data": "05/10/2026 15:45",
-     "arquivo": "C6B8155110788FC0EF8B160793EA26CFC342B6B5A561D4461C0A3A2C17F9C97E.pdf"
-    },
-    {
-     "descricao": "Respostas às impugnações, conforme estabelecido no subitem 1.5 do Edital nº 1 - ADEAL",
-     "data": "14/09/2026 09:10",
-     "arquivo": "3E3C4900613E9E9FC571EF17CE4B64DEFF5D67149F87419BBD978853F08F6EC2.pdf"
-    },
-    {
-     "descricao": "Edital nº 1 – Abertura",
-     "data": "24/08/2026 09:40",
-     "arquivo": "B77102106228ED45E12CC18C9A22A1E3B2230241E995BF594F69AE88A34D1AF1.pdf"
-    }
-   ],
-   "taxas": [
-    200.0
-   ],
-   "taxa_texto": "R$ 200,00.",
-   "escolaridade_texto": "diploma, devidamente registrado, de conclusão de curso de graduação em Engenharia Agronômica, fornecido por instituição de ensino superior reconh ecida pelo Ministério da Educação (MEC), registro no respectivo conselho de classe e habilitação para conduzir veículos automotores categoria “B”.",
-   "locais_texto": "Maceió/AL",
-   "prova_trecho": "Aplicação das provas objetivas e da prova discursiva 13/12/2026 Consulta individual aos gabaritos ofici",
-   "remuneracoes": [
-    7320.42
-   ],
-   "salario_min": 7320.42,
-   "edital_url": "https://cdn.cebraspe.org.br/concursos/ADEAL_26/arquivos/B77102106228ED45E12CC18C9A22A1E3B2230241E995BF594F69AE88A34D1AF1.pdf",
-   "edital_descricao": "Edital nº 1 – Abertura"
-  },
   {
    "id": "cebraspe-sefaz_al_26",
    "fonte": "Cebraspe",
@@ -462,6 +400,11 @@
    ],
    "link": "https://www.cebraspe.org.br/concursos/PC_PE_26",
    "editais": [
+    {
+     "descricao": "Edital nº 2 – Retificação do subitem 10.2 e dos conhecimentos referentes a Noções de Direito Penal, constantes dos subitens 22.2.3.1 e 22.2.5.1, do Edital nº 1, bem como a inclusão, no referido edital, dos subitens 5.2.1.4 e 5.2.1.5",
+     "data": "21/10/2026 10:00",
+     "arquivo": "C335A790C2386E779A43F3A77EC4951ED8D2D044B99B94305A47B4777EFDA48D.pdf"
+    },
     {
      "descricao": "Edital nº 1 - Abertura",
      "data": "02/10/2026 18:00",
