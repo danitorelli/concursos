@@ -1,81 +1,13 @@
 {
- "atualizado": "2026-10-21T14:17:27+00:00",
+ "atualizado": "2026-10-22T14:27:18+00:00",
  "fontes": [
   {
    "fonte": "Cebraspe",
-   "atualizado": "2026-10-21T14:17:27+00:00",
-   "total": 7
+   "atualizado": "2026-10-22T14:27:18+00:00",
+   "total": 6
   }
  ],
  "concursos": [
-  {
-   "id": "cebraspe-sefaz_al_26",
-   "fonte": "Cebraspe",
-   "sigla": "SEFAZ AL 26",
-   "orgao": "Secretaria de Estado da Fazenda de Alagoas",
-   "status": "aberto",
-   "uf": "AL",
-   "categorias": [],
-   "cargos": [
-    "AUDITOR FISCAL DA ADMINISTRAÇÃO TRIBUTÁRIA ESTADUAL (AFTE)"
-   ],
-   "vagas": 40,
-   "salario_max": 25270.68,
-   "inicio": "2026-09-17",
-   "fim": "2026-10-21",
-   "periodo_texto": "De 17/09/2026 até 21/10/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": "2026-12-20",
-   "taxa": 300.0,
-   "escolaridade": [],
-   "locais": [
-    "Maceió/AL"
-   ],
-   "link": "https://www.cebraspe.org.br/concursos/SEFAZ_AL_26",
-   "editais": [
-    {
-     "descricao": "Edital nº 04 - Complementação de inscrição e retificação do cronograma",
-     "data": "15/10/2026 11:30",
-     "arquivo": "76C791030DAB00B64F644D5B2D46630FE9AEBABA62CFD2EF4C815DAB6A2471BD.pdf"
-    },
-    {
-     "descricao": "Edital nº 03 – Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida",
-     "data": "07/10/2026 10:50",
-     "arquivo": "9874B3512392172CF8ABA7A46E5359FBD8D953C81702BCF5B7E6B0DA2B8ED5DC.pdf"
-    },
-    {
-     "descricao": "Edital nº 2 – Inclusão do subitem 9.7.4.1.3 no Edital nº 1 – SEFAZ/AL, bem como a retificação de tópico de Direito Administrativo, constante dos conhecimentos básicos, divulgado por meio do subitem 14.2.3 do referido edital",
-     "data": "18/09/2026 19:00",
-     "arquivo": "A8EEB238C2CFEAB735078D8B3F23DD5CB87ED555309106DD4B59864D2B89F0F2.pdf"
-    },
-    {
-     "descricao": "Respostas às impugnações, conforme estabelecido no subitem 1.5 do edital nº 1",
-     "data": "16/09/2026 17:00",
-     "arquivo": "93A21C9FFE07B56B9DCC831C8BCBD41A1B41CA23218FFC47FF040878511CDB3E.pdf"
-    },
-    {
-     "descricao": "Edital nº 1 – Abertura – Atualizado conforme retificações",
-     "data": "25/08/2026 10:00",
-     "arquivo": "F317460224E42B1C2CF8434E69696571F3F5EDBE2EA2FFE3B2AC27139650B343.pdf"
-    },
-    {
-     "descricao": "Edital n° 1 - Abertura",
-     "data": "25/08/2026 10:00",
-     "arquivo": "BCC5FB85FDED7931F46C44BF209ABD7F3D660AB0C9ED5B06CDA483EC7A42F3E7.pdf"
-    }
-   ],
-   "taxas": [
-    300.0
-   ],
-   "taxa_texto": "R$ 300,00.",
-   "locais_texto": "Maceió/AL",
-   "prova_trecho": "Aplicação das provas objetivas 20/12/2026 Consulta individual aos gabaritos ofici",
-   "remuneracoes": [
-    25270.68
-   ],
-   "salario_min": 25270.68,
-   "edital_url": "https://cdn.cebraspe.org.br/concursos/SEFAZ_AL_26/arquivos/F317460224E42B1C2CF8434E69696571F3F5EDBE2EA2FFE3B2AC27139650B343.pdf",
-   "edital_descricao": "Edital nº 1 – Abertura – Atualizado conforme retificações"
-  },
   {
    "id": "cebraspe-cbm_al_26",
    "fonte": "Cebraspe",
@@ -326,6 +258,11 @@
    "link": "https://www.cebraspe.org.br/concursos/CD_26_ANALISTA",
    "editais": [
     {
+     "descricao": "Edital nº 6 - Retificação dos subitens 2.5.4 e 11.8 e de legenda constante do item 4 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro de 2026, e suas alterações",
+     "data": "21/10/2026 18:19",
+     "arquivo": "89153BAB1AF0FB959B7C9202327E3D8DE10D6D25433F78F0B5A76FC6A5313774.pdf"
+    },
+    {
      "descricao": "Edital nº 5 - Retificação dos subitens 2.1, 2.2, 2.4.1, 2.5.1, 2.5.2, 2.5.3, 2.5.4 e 14.2.4; inclusão do subitem 2.8 e atualização do quadro de vagas constante do subitem 4.1 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro de 2026",
      "data": "15/10/2026 11:45",
      "arquivo": "3FBDBB5294547B38537683E819608B5FB8DB0366C22D40681F2B19FC69A8A652.pdf"
@@ -351,6 +288,11 @@
      "arquivo": "B4CC8387742A0FCD9975D7DC2F3D752A3E6FB75E362960AF0664C8C799209D33.pdf"
     },
     {
+     "descricao": "Edital nº 1 - Abertura – Atualizado conforme retificações",
+     "data": "02/10/2026 18:33",
+     "arquivo": "D0A680C4506DD7153722F50B4F05038D9C80FE7BAD36D52A5E65DA395F75A94B.pdf"
+    },
+    {
      "descricao": "Edital nº 1 - Abertura",
      "data": "02/10/2026 18:33",
      "arquivo": "BBE30D016054F40651E36AC7B302C3425BD148A39675CA840A5A0CCBFBB5F0F1.pdf"
@@ -360,14 +302,14 @@
     130.0
    ],
    "taxa_texto": "R$ 130,00.",
-   "escolaridade_texto": "diploma, devidamente registrado, de conclusão de curso de graduação d e nível superior em Arquivologia, fornecido por instituição de ensino superior reconhecida pelo MEC, e registro no respectivo conselho de exercício profissional.",
+   "escolaridade_texto": "diploma, devidamente registrado, de concl usão de curso de graduação de nível superior em Arquivologia, fornecido por instituição de ensino superior reconhecida pelo MEC, e registro profissional no Ministério do Trabalho e Emprego (MTE). (Retificado por meio do Edital nº 5 – Câmara dos Deputados – A",
    "prova_trecho": "Aplicação das provas objetivas e discursiva 17/1/2027 Consulta individual aos gabaritos ofici",
    "remuneracoes": [
     32070.88
    ],
    "salario_min": 32070.88,
-   "edital_url": "https://cdn.cebraspe.org.br/concursos/CD_26_ANALISTA/arquivos/BBE30D016054F40651E36AC7B302C3425BD148A39675CA840A5A0CCBFBB5F0F1.pdf",
-   "edital_descricao": "Edital nº 1 - Abertura"
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/CD_26_ANALISTA/arquivos/D0A680C4506DD7153722F50B4F05038D9C80FE7BAD36D52A5E65DA395F75A94B.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura – Atualizado conforme retificações"
   },
   {
    "id": "cebraspe-pc_pe_26",
@@ -406,6 +348,11 @@
      "arquivo": "C335A790C2386E779A43F3A77EC4951ED8D2D044B99B94305A47B4777EFDA48D.pdf"
     },
     {
+     "descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações",
+     "data": "02/10/2026 18:00",
+     "arquivo": "63842FF8D583EDFC839E0E22838DA67E30E283ED69B3ECE951BF2D0CDB69A540.pdf"
+    },
+    {
      "descricao": "Edital nº 1 - Abertura",
      "data": "02/10/2026 18:00",
      "arquivo": "C8954198EED687EE933077C3EC25BFDB828354459F7AA3D175D6265BF6DF10C9.pdf"
@@ -413,8 +360,8 @@
    ],
    "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
    "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas ",
-   "edital_url": "https://cdn.cebraspe.org.br/concursos/PC_PE_26/arquivos/C8954198EED687EE933077C3EC25BFDB828354459F7AA3D175D6265BF6DF10C9.pdf",
-   "edital_descricao": "Edital nº 1 - Abertura"
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/PC_PE_26/arquivos/63842FF8D583EDFC839E0E22838DA67E30E283ED69B3ECE951BF2D0CDB69A540.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações"
   },
   {
    "id": "cebraspe-tj_ce_25_notarios",

@@ -122,5 +122,40 @@
   "locais_texto": "Rio Branco/AC",
   "prova": "2027-01-17",
   "prova_trecho": "Aplicação das provas objetiva e discursiva 17/1/2027 Consulta individual aos gabaritos ofici"
+ },
+ "CD_26_ANALISTA/D0A680C4506DD7153722F50B4F05038D9C80FE7BAD36D52A5E65DA395F75A94B.pdf": {
+  "taxa": 130.0,
+  "taxas": [
+   130.0
+  ],
+  "taxa_texto": "R$ 130,00.",
+  "remuneracoes": [
+   32070.88
+  ],
+  "escolaridade": [
+   "Superior"
+  ],
+  "escolaridade_texto": "diploma, devidamente registrado, de concl usão de curso de graduação de nível superior em Arquivologia, fornecido por instituição de ensino superior reconhecida pelo MEC, e registro profissional no Ministério do Trabalho e Emprego (MTE). (Retificado por meio do Edital nº 5 – Câmara dos Deputados – A",
+  "locais": [],
+  "locais_texto": null,
+  "prova": "2027-01-17",
+  "prova_trecho": "Aplicação das provas objetivas e discursiva 17/1/2027 Consulta individual aos gabaritos ofici"
+ },
+ "PC_PE_26/63842FF8D583EDFC839E0E22838DA67E30E283ED69B3ECE951BF2D0CDB69A540.pdf": {
+  "taxa": null,
+  "taxas": [],
+  "taxa_texto": null,
+  "remuneracoes": [],
+  "escolaridade": [],
+  "escolaridade_texto": null,
+  "locais": [
+   "Arcoverde/PE",
+   "Caruaru/PE",
+   "Petrolina/PE",
+   "Recife/PE"
+  ],
+  "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
+  "prova": "2027-03-07",
+  "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas "
  }
 }
