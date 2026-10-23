@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-22T14:27:18+00:00",
+ "atualizado": "2026-10-23T14:00:38+00:00",
  "fonte": "Cebraspe",
  "debug_links": [
   {
@@ -165,6 +165,11 @@
    "link": "https://www.cebraspe.org.br/concursos/CBM_AL_26",
    "editais": [
     {
+     "descricao": "Edital nº 10 - Retificação dos subitens 4.1 e 8.11.6 do Edital nº 7 – CBM/AL",
+     "data": "22/10/2026 10:00",
+     "arquivo": "DDD0A841AFFD1312402365BFE6FC32D2BD6EB1720A5D5C5BE99BCFC4957FBEBB.pdf"
+    },
+    {
      "descricao": "Edital nº 9 - Relação provisória dos candidatos com a solicitação de isenção da taxa de inscrição deferida, referente ao período de reabertura das solicitações",
      "data": "13/10/2026 10:00",
      "arquivo": "8947C2F248C28CD048F70C326634E4328F568291B5683A84C11699BAAE859CBD.pdf"
@@ -198,11 +203,6 @@
      "descricao": "Comunicado - Prorrogação do prazo para a interposição de recursos contra a situação provisória de isenção de taxa",
      "data": "10/07/2026 16:00",
      "arquivo": "B863F750A8EA85278CE3CD64E5C1889BBE5769E785A92C0695996811BFDFE1DF.pdf"
-    },
-    {
-     "descricao": "Edital nº 4 - Retificação dos requisitos para o Cargo 2: Soldado do Quadro de Praças, divulgados por meio dos subitens 2.2.1 e 2.2.2 do Edital nº 1 – CBM/AL",
-     "data": "10/07/2026 09:00",
-     "arquivo": "CB994D83051AE7DFAF01C4D636B6DB5C30733E57A7DB31A4656EBBBF059034BC.pdf"
     }
    ],
    "taxas": [
