@@ -157,5 +157,24 @@
   "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
   "prova": "2027-03-07",
   "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas "
+ },
+ "CBM_AL_26/22973F353DCF2E0C9A314A919819920EBB406FE44664D96F668C94F183EFE3CD.pdf": {
+  "taxa": 150.0,
+  "taxas": [
+   150.0
+  ],
+  "taxa_texto": "R$ 150,00.",
+  "remuneracoes": [],
+  "escolaridade": [
+   "Médio"
+  ],
+  "escolaridade_texto": "certificado, devidamente registrado, de conclusão de curso de ensino médio, expedido por instituição de ensino reconhecida pela Secretaria de Educação ou órgão competente, e carteira nacional de habilitação (CNH) válida, no mínimo, na categoria “b”, ou provisória para essa categoria (a qual deverá s",
+  "locais": [
+   "Arapiraca/AL",
+   "Maceió/AL"
+  ],
+  "locais_texto": "Arapiraca/AL e Maceió/AL",
+  "prova": null,
+  "prova_trecho": null
  }
 }
