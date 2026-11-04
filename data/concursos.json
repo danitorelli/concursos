@@ -1,10 +1,10 @@
 {
- "atualizado": "2026-11-03T16:47:09+00:00",
+ "atualizado": "2026-11-04T16:45:17+00:00",
  "fontes": [
   {
    "fonte": "Cebraspe",
-   "atualizado": "2026-11-03T16:47:09+00:00",
-   "total": 4
+   "atualizado": "2026-11-04T16:45:17+00:00",
+   "total": 5
   }
  ],
  "concursos": [
@@ -202,6 +202,46 @@
    "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas ",
    "edital_url": "https://cdn.cebraspe.org.br/concursos/PC_PE_26/arquivos/63842FF8D583EDFC839E0E22838DA67E30E283ED69B3ECE951BF2D0CDB69A540.pdf",
    "edital_descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações"
+  },
+  {
+   "id": "cebraspe-seap_pe_26",
+   "fonte": "Cebraspe",
+   "sigla": "SEAP PE 26",
+   "orgao": "SEAP PE 26",
+   "status": "edital",
+   "uf": "PE",
+   "categorias": [],
+   "cargos": [],
+   "vagas": 700,
+   "salario_max": 5667.92,
+   "inicio": "2026-11-12",
+   "fim": "2027-01-04",
+   "periodo_texto": "De 12/11/2026 até 04/01/2027 às 18:00, horário oficial de Brasília/DF",
+   "prova": "2027-03-21",
+   "taxa": 250.0,
+   "escolaridade": [],
+   "locais": [
+    "Arcoverde/PE",
+    "Caruaru/PE",
+    "Petrolina/PE",
+    "Recife/PE"
+   ],
+   "link": "https://www.cebraspe.org.br/concursos/SEAP_PE_26",
+   "editais": [
+    {
+     "descricao": "Edital nº 1 - Abertura",
+     "data": "04/11/2026 10:30",
+     "arquivo": "2327822CE642EE75B289D1FEF1BD0A9FCD699F971AC65A85CA07D3786DCF7AC4.pdf"
+    }
+   ],
+   "taxas": [
+    250.0
+   ],
+   "taxa_texto": "R$ 250,00.",
+   "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
+   "prova_trecho": "Aplicação das provas objetivas e discursiva 21/3/2027 Consulta individual aos gabaritos ofici",
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/SEAP_PE_26/arquivos/2327822CE642EE75B289D1FEF1BD0A9FCD699F971AC65A85CA07D3786DCF7AC4.pdf",
+   "edital_descricao": "Edital nº 1 - Abertura"
   },
   {
    "id": "cebraspe-tj_ce_25_notarios",

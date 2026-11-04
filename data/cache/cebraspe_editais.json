@@ -176,5 +176,24 @@
   "locais_texto": "Arapiraca/AL e Maceió/AL",
   "prova": null,
   "prova_trecho": null
+ },
+ "SEAP_PE_26/2327822CE642EE75B289D1FEF1BD0A9FCD699F971AC65A85CA07D3786DCF7AC4.pdf": {
+  "taxa": 250.0,
+  "taxas": [
+   250.0
+  ],
+  "taxa_texto": "R$ 250,00.",
+  "remuneracoes": [],
+  "escolaridade": [],
+  "escolaridade_texto": null,
+  "locais": [
+   "Arcoverde/PE",
+   "Caruaru/PE",
+   "Petrolina/PE",
+   "Recife/PE"
+  ],
+  "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
+  "prova": "2027-03-21",
+  "prova_trecho": "Aplicação das provas objetivas e discursiva 21/3/2027 Consulta individual aos gabaritos ofici"
  }
 }
