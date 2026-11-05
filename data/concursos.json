@@ -1,68 +1,13 @@
 {
- "atualizado": "2026-11-04T16:45:17+00:00",
+ "atualizado": "2026-11-05T17:01:05+00:00",
  "fontes": [
   {
    "fonte": "Cebraspe",
-   "atualizado": "2026-11-04T16:45:17+00:00",
-   "total": 5
+   "atualizado": "2026-11-05T17:01:05+00:00",
+   "total": 4
   }
  ],
  "concursos": [
-  {
-   "id": "cebraspe-cgu_26_affc",
-   "fonte": "Cebraspe",
-   "sigla": "CGU 26 AFFC",
-   "orgao": "CGU 26 AFFC",
-   "status": "aberto",
-   "uf": "BR",
-   "categorias": [
-    "TI"
-   ],
-   "cargos": [
-    "CARGO 1: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: AUDITORIA",
-    "CARGO 2: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – CIÊNCIA DE DADOS",
-    "CARGO 3: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – INFRAESTRUTURA DE TI",
-    "CARGO 4: AUDITOR FEDERAL DE FINANÇAS E CONTROLE (AFFC) – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO – DESENVOLVIMENTO DE SISTEMAS"
-   ],
-   "vagas": 60,
-   "salario_max": 20000.0,
-   "inicio": "2026-10-10",
-   "fim": "2026-11-04",
-   "periodo_texto": "De 10/10/2026 até 04/11/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": null,
-   "taxa": 170.0,
-   "escolaridade": [],
-   "locais": [],
-   "link": "https://www.cebraspe.org.br/concursos/CGU_26_AFFC",
-   "editais": [
-    {
-     "descricao": "Edital nº 2 – Retificação do subitem 6.2.4 e do Anexo I – Cronograma Previsto do Edital nº 1",
-     "data": "15/10/2026 10:00",
-     "arquivo": "8CC969EF9F81DD9088CC93655FE2734C95419BE8A9285A887D96D915605D867C.pdf"
-    },
-    {
-     "descricao": "Comunicado – Pagamento da taxa de inscrição via Pix ficará temporariamente indisponível no dia 10 de outubro de 2026",
-     "data": "09/10/2026 18:40",
-     "arquivo": "A26FBD902F8715F8D919268DB45102EEEED3469F579C9648BE65D97AE4CAE800.pdf"
-    },
-    {
-     "descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações",
-     "data": "09/10/2026 10:00",
-     "arquivo": "FDEEFB41D8ACD48AB369A9915EA1A48C67389EC91427E98F6F264E19B1F63FB9.pdf"
-    },
-    {
-     "descricao": "Edital nº 1 - Abertura",
-     "data": "09/10/2026 10:00",
-     "arquivo": "C7A60D15CB0DDDFA92233056D728C555505D6B935D7048646D49445EB346F825.pdf"
-    }
-   ],
-   "taxas": [
-    170.0
-   ],
-   "taxa_texto": "R$ 170,00.",
-   "edital_url": "https://cdn.cebraspe.org.br/concursos/CGU_26_AFFC/arquivos/FDEEFB41D8ACD48AB369A9915EA1A48C67389EC91427E98F6F264E19B1F63FB9.pdf",
-   "edital_descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações"
-  },
   {
    "id": "cebraspe-cd_26_analista",
    "fonte": "Cebraspe",
@@ -210,8 +155,12 @@
    "orgao": "SEAP PE 26",
    "status": "edital",
    "uf": "PE",
-   "categorias": [],
-   "cargos": [],
+   "categorias": [
+    "Polícia"
+   ],
+   "cargos": [
+    "CARGO DE POLICIAL PENAL DO ESTADO"
+   ],
    "vagas": 700,
    "salario_max": 5667.92,
    "inicio": "2026-11-12",
