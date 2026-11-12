@@ -1,9 +1,9 @@
 {
- "atualizado": "2026-11-11T16:55:37+00:00",
+ "atualizado": "2026-11-12T17:17:33+00:00",
  "fontes": [
   {
    "fonte": "Cebraspe",
-   "atualizado": "2026-11-11T16:55:37+00:00",
+   "atualizado": "2026-11-12T17:17:33+00:00",
    "total": 4
   }
  ],
@@ -128,6 +128,11 @@
    "link": "https://www.cebraspe.org.br/concursos/PC_PE_26",
    "editais": [
     {
+     "descricao": "Edital nº 3 - Retificação dos subitens 2.2, 5.1.10, 5.1.12.1, 11.11.4.1 a 11.11.4.10 e 20.9 do Edital nº 1, bem como a inclusão das alíneas “a” a “f” no inciso IV do subitem 10.16, no referido edital",
+     "data": "11/11/2026 15:00",
+     "arquivo": "95BF4127E54CA73F44CAB3305F87A4E6480E25D7D7E1B580AC64F98E0A48824A.pdf"
+    },
+    {
      "descricao": "Edital nº 2 – Retificação do subitem 10.2 e dos conhecimentos referentes a Noções de Direito Penal, constantes dos subitens 22.2.3.1 e 22.2.5.1, do Edital nº 1, bem como a inclusão, no referido edital, dos subitens 5.2.1.4 e 5.2.1.5",
      "data": "21/10/2026 10:00",
      "arquivo": "C335A790C2386E779A43F3A77EC4951ED8D2D044B99B94305A47B4777EFDA48D.pdf"
@@ -135,7 +140,7 @@
     {
      "descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações",
      "data": "02/10/2026 18:00",
-     "arquivo": "63842FF8D583EDFC839E0E22838DA67E30E283ED69B3ECE951BF2D0CDB69A540.pdf"
+     "arquivo": "19E649EFD47D414D072E0EBB585FDBE3E315F1A3D8F6C94626FB29E70ECB66FB.pdf"
     },
     {
      "descricao": "Edital nº 1 - Abertura",
@@ -145,7 +150,7 @@
    ],
    "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
    "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas ",
-   "edital_url": "https://cdn.cebraspe.org.br/concursos/PC_PE_26/arquivos/63842FF8D583EDFC839E0E22838DA67E30E283ED69B3ECE951BF2D0CDB69A540.pdf",
+   "edital_url": "https://cdn.cebraspe.org.br/concursos/PC_PE_26/arquivos/19E649EFD47D414D072E0EBB585FDBE3E315F1A3D8F6C94626FB29E70ECB66FB.pdf",
    "edital_descricao": "Edital nº 1 - Abertura - Atualizado conforme retificações"
   },
   {
@@ -153,7 +158,7 @@
    "fonte": "Cebraspe",
    "sigla": "SEAP PE 26",
    "orgao": "SEAP PE 26",
-   "status": "edital",
+   "status": "aberto",
    "uf": "PE",
    "categorias": [
     "Polícia"

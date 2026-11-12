@@ -195,5 +195,22 @@
   "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
   "prova": "2027-03-21",
   "prova_trecho": "Aplicação das provas objetivas e discursiva 21/3/2027 Consulta individual aos gabaritos ofici"
+ },
+ "PC_PE_26/19E649EFD47D414D072E0EBB585FDBE3E315F1A3D8F6C94626FB29E70ECB66FB.pdf": {
+  "taxa": null,
+  "taxas": [],
+  "taxa_texto": null,
+  "remuneracoes": [],
+  "escolaridade": [],
+  "escolaridade_texto": null,
+  "locais": [
+   "Arcoverde/PE",
+   "Caruaru/PE",
+   "Petrolina/PE",
+   "Recife/PE"
+  ],
+  "locais_texto": "Arcoverde/PE, Caruaru/PE, Petrolina/PE e Recife/PE",
+  "prova": "2027-03-07",
+  "prova_trecho": "Aplicação das provas objetivas e discursiva (para o cargo de Escrivão de Polícia) 7/3/2027 (manhã) Aplicação das provas objetivas "
  }
 }
