@@ -1,101 +1,13 @@
 {
- "atualizado": "2026-11-17T18:02:35+00:00",
+ "atualizado": "2026-11-18T17:43:40+00:00",
  "fontes": [
   {
    "fonte": "Cebraspe",
-   "atualizado": "2026-11-17T18:02:35+00:00",
-   "total": 4
+   "atualizado": "2026-11-18T17:43:40+00:00",
+   "total": 3
   }
  ],
  "concursos": [
-  {
-   "id": "cebraspe-cd_26_analista",
-   "fonte": "Cebraspe",
-   "sigla": "CÂMARA DOS DEPUTADOS 26 ANALISTA",
-   "orgao": "CÂMARA DOS DEPUTADOS 26 ANALISTA LEGISLATIVO",
-   "status": "aberto",
-   "uf": "BR",
-   "categorias": [],
-   "cargos": [
-    "CARGO 01: ANALISTA LEGISLATIVO – ESPECIALIDADE: COMUNICAÇÃO SOCIAL – ÁREA: DIVULGAÇÃO INSTITUCIONAL",
-    "CARGO 02: ANALISTA LEGISLATIVO – ESPECIALIDADE: COMUNICAÇÃO SOCIAL – ÁREA: JORNALISMO",
-    "CARGO 03: ANALISTA LEGISLATIVO – ESPECIALIDADE: COMUNICAÇÃO SOCIAL – ÁREA: RELAÇÕES PÚBLICAS",
-    "CARGO 04: ANALISTA LEGISLATIVO – ESPECIALIDADE: DOCUMENTAÇÃO E INFORMAÇÃO LEGISLATIVA – ÁREA: ARQUIVOLOGIA",
-    "CARGO 05: ANALISTA LEGISLATIVO – ESPECIALIDADE: DOCUMENTAÇÃO E INFORMAÇÃO LEGISLATIVA – ÁREA: BIBLIOTECONOMIA",
-    "CARGO 06: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA CIVIL",
-    "CARGO 07: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA ELÉTRICA",
-    "CARGO 08: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA ELETRÔNICA/TELECOMUNICAÇÕES",
-    "CARGO 09: ANALISTA LEGISLATIVO – ESPECIALIDADE: ENGENHEIRO – ÁREA: ENGENHARIA MECÂNICA",
-    "CARGO 10: ANALISTA LEGISLATIVO – ESPECIALIDADE: MUSEÓLOGO",
-    "CARGO 11: ANALISTA LEGISLATIVO – ESPECIALIDADE: REGISTRO E REDAÇÃO"
-   ],
-   "vagas": 66,
-   "salario_max": 32070.88,
-   "inicio": "2026-10-15",
-   "fim": "2026-11-17",
-   "periodo_texto": "De 15/10/2026 até 17/11/2026 às 18:00, horário oficial de Brasília/DF",
-   "prova": "2027-01-17",
-   "taxa": 130.0,
-   "escolaridade": [
-    "Superior"
-   ],
-   "locais": [],
-   "link": "https://www.cebraspe.org.br/concursos/CD_26_ANALISTA",
-   "editais": [
-    {
-     "descricao": "Edital nº 6 - Retificação dos subitens 2.5.4 e 11.8 e de legenda constante do item 4 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro de 2026, e suas alterações",
-     "data": "21/10/2026 18:19",
-     "arquivo": "89153BAB1AF0FB959B7C9202327E3D8DE10D6D25433F78F0B5A76FC6A5313774.pdf"
-    },
-    {
-     "descricao": "Edital nº 5 - Retificação dos subitens 2.1, 2.2, 2.4.1, 2.5.1, 2.5.2, 2.5.3, 2.5.4 e 14.2.4; inclusão do subitem 2.8 e atualização do quadro de vagas constante do subitem 4.1 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro de 2026",
-     "data": "15/10/2026 11:45",
-     "arquivo": "3FBDBB5294547B38537683E819608B5FB8DB0366C22D40681F2B19FC69A8A652.pdf"
-    },
-    {
-     "descricao": "Edital nº 4 - Resultado final no sorteio das vagas reservadas de  que trata o subitem 5.1.4 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro  de 2026",
-     "data": "13/10/2026 18:55",
-     "arquivo": "787E713B1C1573FD3B8D4C17D9145E440429F317ADFFC8A07D92594D961D3830.pdf"
-    },
-    {
-     "descricao": "Edital nº 3 - Resultado provisório no sorteio das vagas reservadas de que trata o subitem 5.1.4 do Edital nº 1 – Câmara dos Deputados – Analista Legislativo, de 2 de outubro de 2026",
-     "data": "09/10/2026 14:45",
-     "arquivo": "133EDBEE591578369AA5117750F230D729D489E329F51213760D28D5EF367A0D.pdf"
-    },
-    {
-     "descricao": "Ata do Sorteio Público destinado à distribuição de vagas reservadas no concurso público da Câmara dos Deputados",
-     "data": "08/10/2026 13:01",
-     "arquivo": "3997D83E84019AD83E6039836490D4F0CF955180AC5F620B78436717E578A32A.pdf"
-    },
-    {
-     "descricao": "Edital nº 2 - Sorteio público destinado à distribuição de duas vagas reservadas de provimento imediato",
-     "data": "05/10/2026 09:09",
-     "arquivo": "B4CC8387742A0FCD9975D7DC2F3D752A3E6FB75E362960AF0664C8C799209D33.pdf"
-    },
-    {
-     "descricao": "Edital nº 1 - Abertura – Atualizado conforme retificações",
-     "data": "02/10/2026 18:33",
-     "arquivo": "D0A680C4506DD7153722F50B4F05038D9C80FE7BAD36D52A5E65DA395F75A94B.pdf"
-    },
-    {
-     "descricao": "Edital nº 1 - Abertura",
-     "data": "02/10/2026 18:33",
-     "arquivo": "BBE30D016054F40651E36AC7B302C3425BD148A39675CA840A5A0CCBFBB5F0F1.pdf"
-    }
-   ],
-   "taxas": [
-    130.0
-   ],
-   "taxa_texto": "R$ 130,00.",
-   "escolaridade_texto": "diploma, devidamente registrado, de concl usão de curso de graduação de nível superior em Arquivologia, fornecido por instituição de ensino superior reconhecida pelo MEC, e registro profissional no Ministério do Trabalho e Emprego (MTE). (Retificado por meio do Edital nº 5 – Câmara dos Deputados – A",
-   "prova_trecho": "Aplicação das provas objetivas e discursiva 17/1/2027 Consulta individual aos gabaritos ofici",
-   "remuneracoes": [
-    32070.88
-   ],
-   "salario_min": 32070.88,
-   "edital_url": "https://cdn.cebraspe.org.br/concursos/CD_26_ANALISTA/arquivos/D0A680C4506DD7153722F50B4F05038D9C80FE7BAD36D52A5E65DA395F75A94B.pdf",
-   "edital_descricao": "Edital nº 1 - Abertura – Atualizado conforme retificações"
-  },
   {
    "id": "cebraspe-pc_pe_26",
    "fonte": "Cebraspe",
